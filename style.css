@@ -3,5 +3,12 @@
 }
 
 .title {
-    background-color: pink;
+    text-align: center;
+}
+
+.file-border {
+    background-color: #fd46fc;
+    max-width: 1300px;
+    margin: auto;
+    padding: 10px;
 }
