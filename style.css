@@ -4,11 +4,28 @@
 
 .title {
     text-align: center;
+    word-break: break-word;
 }
 
 .file-border {
     background-color: #fd46fc;
-    max-width: 1300px;
+    max-width: 1600px;
     margin: auto;
     padding: 10px;
+}
+
+.timeline-area {
+    background-color: #106e55;
+    padding: 10px;
+}
+
+.event-box {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.set-flex {
+  flex: 1;
+  border: 1px solid black;
 }
