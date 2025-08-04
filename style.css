@@ -1,3 +1,20 @@
+@font-face {
+  font-family: 'Nukamiso';
+  src: url('./Fonts/nukamiso__beta08.eot?#iefix') format('embedded-opentype'),
+       url('./Fonts/nukamiso__beta08.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Suissnord';
+  src: url('./Fonts/Suissnord.eot?#iefix') format('embedded-opentype'),
+       url('./Fonts/Suissnord.otf') format('OpenType');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .pageback {
     background-color: #061040;
 }
@@ -25,7 +42,12 @@
     gap: 20px;
 }
 
-.set-flex {
+.flex-info {
+  flex: 1;
+  border: 1px solid black;
+}
+
+.flex-pic {
   flex: 1;
   border: 1px solid black;
 }
