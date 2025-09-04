@@ -6,48 +6,94 @@
   font-style: normal;
 }
 
-
 @font-face {
-  font-family: 'Suissnord';
-  src: url('./Fonts/Suissnord.eot?#iefix') format('embedded-opentype'),
-       url('./Fonts/Suissnord.otf') format('OpenType');
+  font-family: 'Primetime';
+  src: url('./Fonts/PRIMETIME ╕ PERSONAL USE ONLY.eot?#iefix') format('embedded-opentype'),
+       url('./Fonts/PRIMETIME ╕ PERSONAL USE ONLY.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
-.pageback {
+.timeline-background {
     background-color: #061040;
 }
 
-.title {
-    text-align: center;
-    word-break: break-word;
-}
-
 .file-border {
-    background-color: #fd46fc;
-    max-width: 1600px;
+    background-color: #FD46FC;
+    padding: 20px;
+    max-width: 1300px;
     margin: auto;
-    padding: 10px;
 }
 
-.timeline-area {
-    background-color: #106e55;
-    padding: 10px;
+.file-space {
+    background-color: #061040;
+    font-family: 'Nukamiso';
 }
 
-.event-box {
+.event-container {
     display: flex;
     flex-wrap: wrap;
-    gap: 20px;
+    padding: 0 1rem;
+    margin: 0 auto 0 auto;
+    max-width: 1120px;
 }
 
-.flex-info {
-  flex: 1;
-  border: 1px solid black;
+.info-box {
+    flex: 3;
+    padding-right: 40px;
 }
 
-.flex-pic {
-  flex: 1;
-  border: 1px solid black;
+.image-box {
+    flex: 1;
+}
+
+.year-box {
+    color: gray;
+    font-size: 50px;
+    padding: 0 1rem;
+    margin: 0 auto 0 auto;
+    max-width: 1120px;
+}
+
+.date-box {
+    color: yellow;
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+
+.mini-info {
+    color: lightblue;
+    margin-bottom: 5px;
+}
+
+.event-details {
+    color: yellow;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.custom-button {
+    background-color: aquamarine;
+    flex: 1;
+}
+
+.button-layouts {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.space-buttons {
+    flex: 1;
+    text-decoration: none;
+    color:black;
+    background-color: antiquewhite;
+    text-align: center;
+    margin-inline: 50px;
+}
+
+.title {
+    font-family: 'Primetime';
+    text-align: center;
+    font-size: 90px;
+    color:#3160ac
 }
