@@ -34,6 +34,7 @@
     display: flex;
     flex-wrap: wrap;
     padding: 0 1rem;
+    padding-bottom: 3rem;
     margin: 0 auto 0 auto;
     max-width: 1120px;
 }
@@ -50,7 +51,7 @@
 .year-box {
     color: gray;
     font-size: 50px;
-    padding: 0 1rem;
+    padding: 30px 1rem;
     margin: 0 auto 0 auto;
     max-width: 1120px;
 }
@@ -69,7 +70,7 @@
 .event-details {
     color: yellow;
     margin-bottom: 20px;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .custom-button {
@@ -80,6 +81,7 @@
 .button-layouts {
     display: flex;
     flex-wrap: wrap;
+    margin-bottom: 30px;
 }
 
 .space-buttons {
@@ -95,5 +97,5 @@
     font-family: 'Primetime';
     text-align: center;
     font-size: 90px;
-    color:#3160ac
+    color:#3160ac;
 }

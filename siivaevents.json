@@ -434,15 +434,453 @@
         },
         {
             "year": 2017,
-            "events": []
+            "events": [
+                {
+                    "display_date": "January 9, 2017",
+                    "date": "January 9, 2017",
+                    "location": "Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "The Voice reflects on the SiIvaGunner channel's 1st anniversary." 
+                },
+                {
+                    "display_date": "January 10, 2017",
+                    "date": "January 10, 2017",
+                    "location": "The Voice's Tower, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Angry Joe reports the destruction of Santa's Workshop to The Voice. Joe gives The Voice a vile of Christmas Spirit."
+                },
+                {
+                    "display_date": "",
+                    "date": "January 10, 2017",
+                    "location": "The Voice's Tower, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "The Voice calls Haltmann into his office, presenting his daughter, \"Susie\", though it was actually Haruka Amami in disguise. Haruka performs \"The Noble Haltmann\"."
+                },
+                {
+                    "display_date": "",
+                    "date": "January 10, 2017",
+                    "location": "Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Nozomi, Meta Knight, and Santa Claus face off against Angry Joe and Mecha-Dick. The main trio win using Christmas Spirit."
+                },
+                {
+                    "display_date": "January 28, 2017",
+                    "date": "January 28, 2017",
+                    "location": "Rapper's Union HQ, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "The main trio and The Rapper's Union come up with a plan to infiltrate The Voice's barracks."
+                },
+                {
+                    "display_date": "",
+                    "date": "January 28, 2017",
+                    "location": "The Voice's Barracks, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Wood Man and Robbie capture The Voice's army."
+                },
+                {
+                    "display_date": "",
+                    "date": "January 28, 2017",
+                    "location": "The Voice's Barracks, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Angry Joe, controlling the Bowflexo mech and using Christmas Spirit, fights the main trio and The Rapper's Union. Nozomi defeats Joe through Haruka's encouragement and Christmas Spirit. Snoop Dogg kills Joe."
+                },
+                {
+                    "display_date": "",
+                    "date": "January 28, 2017",
+                    "location": "The Voice's Tower, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "The Voice hires Kazoo Master, in exchange of Kazoo rips on the channel."
+                },
+                {
+                    "display_date": "January 29, 2017",
+                    "date": "January 29, 2017",
+                    "location": "Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Pac-Man tries to give crack to Woodsans and Gaijin Goomba. It does not go well."
+                },
+                {
+                    "display_date": "April 24, 2017",
+                    "date": "April 24, 2017",
+                    "location": "Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "The Joke-Explainer™ 7000 is obtained by Haltmann Works Company for testing purposes."
+                },
+                {
+                    "display_date": "",
+                    "date": "April 24, 2017",
+                    "location": "Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Dr. Andonuts contacts Wade L.D. about obtaining parts for a Joke-Explainer™ 7000 replica. Andonuts asks for the project to be hidden from the company."
+                },
+                {
+                    "display_date": "",
+                    "date": "April 24, 2017",
+                    "location": "Rapper's Union Hideout, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Wade L.D. and Charles Barkley survey The Rapper's Union's new base. Barkley plans his attack."
+                },
+                {
+                    "display_date": "Between April 24 and May 14, 2017",
+                    "date": "Between April 24 and May 14, 2017",
+                    "location": "The Voice's Tower, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "The Garlic Taco is stolen by 2B, who escapes through a portal."
+                },
+                {
+                    "display_date": "",
+                    "date": "Between April 24 and May 14, 2017",
+                    "location": "Santa's Workshop, The North Pole",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Wade L.D. is tasked with surveying the now destroyed Santa's Workshop."
+                },
+                {
+                    "display_date": "",
+                    "date": "Between April 24 and May 14, 2017",
+                    "location": "Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "2B contacts Wade L.D. for the first time, telling him that she will contact him soon."
+                },
+                {
+                    "display_date": "May 14, 2017",
+                    "date": "May 14, 2017",
+                    "location": "The Voice's Tower, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "The Voice meets with Charles Barkley to discuss plans against The Rapper's Union."
+                },
+                {
+                    "display_date": "",
+                    "date": "May 14, 2017",
+                    "location": "The Voice's Tower, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "The Gadgetini Clone 2.0, a robot resembling Inspector Gadget, bursts into The Voice's office. The Voice is kicked out."
+                },
+                {
+                    "display_date": "",
+                    "date": "May 14, 2017",
+                    "location": "Rapper's Union Hideout, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Wood Man and Robbie Rotten bust into The Rapper's Union's Hideout in an attempt to capture the heroes. The duo lose to a fire set on them."
+                },
+                {
+                    "display_date": "",
+                    "date": "May 14, 2017",
+                    "location": "Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "2B encounters Snoop Dogg, asking if he has seen Wario or Waluigi. She proceeds to leave through a portal."
+                },
+                {
+                    "display_date": "",
+                    "date": "May 14, 2017",
+                    "location": "Rapper's Union HQ, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "The Rapper's Union, alongside new member PaRappa, are ambushed by Charles Barkley. Barkley kills Chip and PaRappa, before summoning the Kazoo Master. Barkley is sucked into Kazoo Master's portal, presumably dying. Kazoo Master fights Snoop Dogg and Soulja Boy, but leaves after being bested by Soulja Boy."
+                },
+                {
+                    "display_date": "May 26, 2017",
+                    "date": "May 26, 2017",
+                    "location": "The Voice's Tower, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Haltmann disables the Gadgetini Clone 2.0, taking over The Voice's office and the SiIvaGunner channel."
+                },
+                {
+                    "display_date": "",
+                    "date": "May 26, 2017",
+                    "location": "Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Wade L.D.'s resquest for the analyzation of the SiIvaGunner sample is granted. Project AIRTH enters alpha testing, using the sample, parts from the Gadgetini Clone 2.0, and Grand Dad as a power source."
+                },
+                {
+                    "display_date": "",
+                    "date": "May 26, 2017",
+                    "location": "Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Snoop Dogg rallies the citizens against The Voice and Haltmann. He announces his run for president."
+                },
+                {
+                    "display_date": "",
+                    "date": "May 26, 2017",
+                    "location": "Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Nozomi, Meta Knight, and Santa Claus head towards The Voice's Tower. Loud Nigra helps them break in."
+                },
+                {
+                    "display_date": "June 16, 2017",
+                    "date": "June 16, 2017",
+                    "location": "Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "2B contacts Wade L.D. again, asking for his help in securing internal information from Haltmann Works Company."
+                },
+                {
+                    "display_date": "June 17, 2017",
+                    "date": "June 17, 2017",
+                    "location": "Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Wade L.D. provides the sample of SiIvaGunner to \"third-parties\", leading to the development of AIRTH prototypes. A leak occurs, though testing from it is successful."
+                },
+                {
+                    "display_date": "",
+                    "date": "June 17, 2017",
+                    "location": "Grandiose City",
+                    "universe": "The Central Canon Continuum (Genocide Timeline)",
+                    "details": "Wood Man shows the viewers the Genocide Timeline, the timeline where Chad Warden killed The Voice and SiIvaGunner, leading to his rampage on the world. He soon brings everyone back to the regular timeline."
+                },
+                {
+                    "display_date": "June 18, 2017",
+                    "date": "June 18, 2017",
+                    "location": "Quality Bar, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Wade L.D. meets up with 2B, where she explains the existance of a time loop in The Central Canon Continuum. They are confronted by polica and drug dealers, but soon escape through a portal."
+                },
+                {
+                    "display_date": "",
+                    "date": "June 18, 2017",
+                    "location": "Saint Denis",
+                    "universe": "Red Dead Dimension",
+                    "details": "Wade L.D. helps 2B escape, though is presumed dead once the portal closes."
+                },
+                {
+                    "display_date": "June 28, 2017",
+                    "date": "June 28, 2017",
+                    "location": "The Voice's Tower, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Rob Thomas makes a deal with Haltmann for the SiIvaGunner channel to host \"Smooth Day\"."
+                },
+                {
+                    "display_date": "October 24, 2017",
+                    "date": "October 24, 2017",
+                    "location": "Movie Set, Grandiose City",
+                    "universe": "A.I. Universe",
+                    "details": "Wood Man travels to the A.I. Universe, created by the SiIva A.I.'s testing. Filming of Wood Man's new movie, The SiIvaGunner Spooktacular Halloween Horror Special: Part II, begins, starring himself and Takane Shijou. During filming, Wood Man kills Proto. Wood Man's actions cause the rapid evolution of the universe and the A.I."
+                },
+                {
+                    "display_date": "November 1, 2017",
+                    "date": "November 1, 2017",
+                    "location": "Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Wood Man presents his movie to Haltmann. Haltmann disregards it, and it is not shown in the CCC, but does see success in the A.I. Universe."
+                },
+                {
+                    "display_date": "",
+                    "date": "November 1, 2017",
+                    "location": "Grandiose City",
+                    "universe": "A.I. Universe",
+                    "details": "Wood Man's deniability of Proto's death causes BonziBuddy to spark many conspiracy theories."
+                },
+                {
+                    "display_date": "November 11, 2017",
+                    "date": "November 11, 2017",
+                    "location": "The A.I.'s Internal System",
+                    "universe": "A.I. Universe",
+                    "details": "The SiIva A.I. begins recording its own logs. The A.I. reflects on Wood Man's recent actions and the creation of a potential tournament."
+                },
+                {
+                    "display_date": "December 26, 2017",
+                    "date": "December 26, 2017",
+                    "location": "The Voice's Tower, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "The main trio fall into a garbage pit. They find themselves in an underground lab containing figment cloning experiments run by JustinRPG."
+                },
+                {
+                    "display_date": "",
+                    "date": "December 26, 2017",
+                    "location": "The Voice's Tower, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "The Voice, somewhere in the tower, orders JustinRPG to defeat the main trio in exchange for bringing Reshiram to him."
+                },
+                {
+                    "display_date": "",
+                    "date": "December 26, 2017",
+                    "location": "The Voice's Tower, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Reshiram eats JustinRPG, though the two return as a fusion, Ju'Reshoggoth. He fights the main trio, causing Santa to lose an arm and the Smolitzer to be destroyed. Ju'Reshoggoth is killed by Santa."
+                },
+                {
+                    "display_date": "",
+                    "date": "December 26, 2017",
+                    "location": "The Voice's Tower, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "The main trio manage to pick themselves back up after their intense fight. They head to an elevator, heading straight to The Voice's office."
+                },
+                {
+                    "display_date": "December 31, 2017",
+                    "date": "December 31, 2017",
+                    "location": "The Voice's Tower, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Project AIRTH concludes alpha testing."
+                }
+                
+            ]
         },
         {
             "year": 2018,
-            "events": []
+            "events": [
+                {
+                    "display_date": "January 1, 2018",
+                    "date": "January 1, 2018",
+                    "location": "The Voice's Tower, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Project AIRTH enters beta testing."
+                },
+                {
+                    "display_date": "January 7, 2018",
+                    "date": "January 7, 2018",
+                    "location": "The Voice's Tower, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "The SiIva A.I. suffers minor glitches as beta testing begins. THese glitches are claimed to be caused by Wood Man."
+                },
+                {
+                    "display_date": "March 16, 2018",
+                    "date": "March 16, 2018",
+                    "location": "Storage Unit, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "Wood Man invites Robbie Rotten to dinner, though it ends badly. Wood Man explains the CCC time loop to Robbie. They argue about the other being a failure, but soon make up."
+                },
+                {
+                    "display_date": "April 1, 2018",
+                    "date": "April 1, 2018",
+                    "location": "The Voice's Tower, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "The SiIva A.I. suffers a major glitch. The glitch manifests Inspector Gadget in the A.I. Universe and takes over the SiIvaGunner channel."
+                },
+                {
+                    "display_date": "April 9, 2018",
+                    "date": "April 9, 2018",
+                    "location": "Unknown",
+                    "universe": "A.I. Universe",
+                    "details": "The Nostalgia Critic fights Inspector Gadget for control of the channel, ultimately winning."
+                },
+                {
+                    "display_date": "April 16, 2018",
+                    "date": "April 16, 2018",
+                    "location": "Unknown",
+                    "universe": "A.I. Universe",
+                    "details": "Due to accusations against him, the Nostalgia Critic releases his control of the channel. The SiIva A.I. reboots itself to fix the glitches."
+                },
+                {
+                    "display_date": "April 30, 2018",
+                    "date": "April 30, 2018",
+                    "location": "The Voice's Tower, Grandiose City",
+                    "universe": "The Central Canon Continuum",
+                    "details": "The Joke-Explainer™ 7000 replica is completed. It serves similar functions to the original Joke-Explainer, though runs on Christmas Spirit."
+                },
+                {
+                    "display_date": "July 27, 2018",
+                    "date": "July 27, 2018",
+                    "location": "Gaylord National Resort, Grandiose City",
+                    "universe": "A.I. Universe",
+                    "details": "John Notwoodman hosts the King for a Day Tournament, inviting 16 contenders to fight for the chance to take over the SiIvaGunner channel."
+                },
+                {
+                    "display_date": "July 29, 2018",
+                    "date": "July 29, 2018",
+                    "location": "Gaylord National Resort, Grandiose City",
+                    "universe": "A.I. Universe",
+                    "details": "Voting for the King for a Day Tournament commences, showcasing each contender and their sourcelist."
+                },
+                {
+                    "display_date": "August 9, 2018",
+                    "date": "August 9, 2018",
+                    "location": "Gaylord National Resort, Grandiose City",
+                    "universe": "A.I. Universe",
+                    "details": "Unregistered HyperCam 2 defeats Off the Hook ft. Glenna Nalira (now Harmony) in the finals, allowing him to take over the SiIvaGunner channel in the near future."
+                },
+                {
+                    "display_date": "August 10, 2018",
+                    "date": "August 10, 2018",
+                    "location": "Gaylord National Resort, Grandiose City",
+                    "universe": "A.I. Universe",
+                    "details": "The Crown summons the Fighting Reject Team against the contenders. The Team are swiftly defeated."
+                },
+                {
+                    "display_date": "October 8, 2018",
+                    "date": "October 8, 2018",
+                    "location": "Grandiose City",
+                    "universe": "A.I. Universe",
+                    "details": "John Notwoodman bids on a haunted mansion, inspired by his love of Eddie Murphy's movie of the same name. He is outbid by Wood Man."
+                },
+                {
+                    "display_date": "October 9, 2018",
+                    "date": "October 9, 2018",
+                    "location": "Grandiose City",
+                    "universe": "A.I. Universe",
+                    "details": "Unregistered HyperCam 2 hosts his takeover of the SiIvaGunner channel."
+                },
+                {
+                    "display_date": "October 11, 2018",
+                    "date": "October 11, 2018",
+                    "location": "The A.I.'s Internal System",
+                    "universe": "A.I. Universe",
+                    "details": "The SiIva A.I. reflects on the success of the King for a Day Tournament. The A.I. also reflects more on Wood Man and Inspector Gadget's Takeover. The A.I. starts plans on a second tournament."
+                },
+                {
+                    "display_date": "October 24, 2018",
+                    "date": "October 24, 2018",
+                    "location": "Reader and Jerome's House",
+                    "universe": "\"The Real World\"",
+                    "details": "Reader watches The Christmas Comeback Crisis Episode 13, however is confronted by a creepy-looking Felix the Cat."
+                },
+                {
+                    "display_date": "",
+                    "date": "October 24, 2018",
+                    "location": "The Voice's Tower, Grandiose City",
+                    "universe": "The Central Canon Continuum (CCC-FOOLS)",
+                    "details": "Haltmann rushes into The Voice's office, though with half of his face missing. Haltmann soon dies. The Voice contacts Wood Man, telling him that SiIvaGunner is having a nightmare and creating Halloween Spirit."
+                },
+                {
+                    "display_date": "",
+                    "date": "October 24, 2018",
+                    "location": "Reader and Jerome's House",
+                    "universe": "\"The Real World\"",
+                    "details": "Reader shows his brother Jerome the creepy episode, with both suddenly getting jumpscared."
+                },
+                {
+                    "display_date": "",
+                    "date": "October 24, 2018",
+                    "location": "Grandiose City",
+                    "universe": "The Central Canon Continuum (CCC-FOOLS)",
+                    "details": "Wood Man, possessed by Halloween Spirit, kills Robbie Rotten. Wood Man returns to The Voice, but The Voice dies in Wood Man's arms. Wood Man travels to SiIvaGunner's house, where he is confronted by a possessed Grand Dad."
+                },
+                {
+                    "display_date": "",
+                    "date": "October 24, 2018",
+                    "location": "SiIva's House, Grandiose City",
+                    "universe": "The Central Canon Continuum (CCC-FOOLS)",
+                    "details": "Grand Dad pulls Jerome into CCC-FOOLS and kills him. Wood Man kills Grand Dad, but finds himself surrounded by the other possessed characters."
+                },
+                {
+                    "display_date": "",
+                    "date": "October 24, 2018",
+                    "location": "SiIva's House, Grandiose City",
+                    "universe": "The Central Canon Continuum (CCC-FOOLS)",
+                    "details": "Wood Man pulls Reader into CCC-FOOLS to use as a distraction. The possessed characters are killed by an awoken SiIva. The Halloween Spirit forms into the 8-Bit Beast, but is killed by SiIva. Wood Man returns Reader to \"The Real World\"."
+                },
+                {
+                    "display_date": "December 6, 2018",
+                    "date": "December 6, 2018",
+                    "location": "Grandiose City",
+                    "universe": "A.I. Universe",
+                    "details": "The Grinch, wanting to promote his new movie, takes over the SiIvaGunner channel."
+                },
+                {
+                    "display_date": "December 19, 2018",
+                    "date": "December 19, 2018",
+                    "location": "Grandiose City",
+                    "universe": "A.I. Universe",
+                    "details": "Getting irritated due to the lack of fanfare for his movie, The Grinch cancels Christmas, posting no more rips."
+                }
+            ]
         },
         {
             "year": 2019,
-            "events": []
+            "events": [
+                {
+                    "display_date": "",
+                    "date": "",
+                    "location": "",
+                    "universe": "",
+                    "details": ""
+                }
+            ]
         },
         {
             "year": 2020,
